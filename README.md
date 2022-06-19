@@ -1,3 +1,7 @@
+# Frontend for demo shop
+
+This project is a frontend for a demo shop, containing a basic inventory management in the current state. It is built on React, Typescript and Axios with Bootstrap for styling.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
